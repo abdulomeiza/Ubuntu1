@@ -13,3 +13,4 @@ According to him, the Army is poised to carry out mandate given to them by Presi
 
 He added that, ” Anybody who takes up arm against the state in whatever form it is, will have him/her self to blame.”
 little update
+updating the remote repository direclty online for it to be fetched from the local repo
